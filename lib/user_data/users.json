@@ -1,0 +1,14 @@
+{
+    "users":{
+        "Bijay":{
+            "name":"Bijay",
+            "age":20,
+            "Password":"bijay1088"
+        },
+        "Sandesh":{
+            "name":"Sandesh",
+            "age":20,
+            "Password":"sandesh1088"
+        }
+    }
+}
